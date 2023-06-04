@@ -1,5 +1,5 @@
 {
-  "name": "math-coin-api",
+  "name": "math-coin",
   "version": "1.0.0",
   "description": "Модуль для удобного использования MathCoin API",
   "main": "index.js",

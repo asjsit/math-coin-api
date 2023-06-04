@@ -17,7 +17,7 @@
 ## 📦 Установка
 
 ```sh
-$ npm install math-coin-api
+$ npm install math-coin
 ```
 <br>
 
