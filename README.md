@@ -2,8 +2,8 @@
 <img width=380px src="https://sun4-2.userapi.com/impg/o3APjcKpg-PXb_Oz4cwx19g8AJf9rc4yAfYteQ/jx7a7gU6pMI.jpg?size=604x363&quality=96&sign=40f11d2b84e374a5558155c79386e883&type=album"></img>
 </p>
 <p align=center>
-<a href="https://www.npmjs.com/package/math-coin-api"><img src="https://img.shields.io/npm/v/math-coin-api.svg?style=flat-square" alt="NPM version"></a>
-<a href="https://www.npmjs.com/package/math-coin-api"><img src="https://img.shields.io/npm/dt/math-coin-api.svg?style=flat-square" alt="NPM downloads"></a></p>
+<a href="https://www.npmjs.com/package/math-coin"><img src="https://img.shields.io/npm/v/math-coin.svg?style=flat-square" alt="NPM version"></a>
+<a href="https://www.npmjs.com/package/math-coin"><img src="https://img.shields.io/npm/dt/math-coin.svg?style=flat-square" alt="NPM downloads"></a></p>
 <div align="center">
 
 **Модуль** для удобного использования **[MathCoin API](https://vk.com/@math_coin_game-dokumentaciya-api)**.
