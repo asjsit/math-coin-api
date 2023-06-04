@@ -7,7 +7,7 @@ exports.MathCoinApi = class {
         this.token = token
         this.id = id
     }
-    
+
     getMyBalance({token, id} = this) {
         return post(url + '/mybalance', {token, id}).then(({data}) => data)
     }
