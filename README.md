@@ -24,7 +24,7 @@ $ npm install node-math-coin
 ## 🚀 Использование
 
 ```js
-const { MathCoinApi } = require('math-coin-api')
+const { MathCoinApi } = require('node-math-coin')
 const api = new MathCoinApi({ token: 'YOUR_TOKEN', id: 'YOUR_ID' }) // Ваш токен и айди
 
 // Получение баланса мерчанта
